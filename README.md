@@ -7,7 +7,7 @@
 
 ## 🛠 Skills and Tools
 - **Tools:** Tableau; SQL, Python, R, Excel 
-- **Skills:** Critical Thinking; Problem Solving; Communication; Teaching.
+- **Skills:** Critical Thinking; Problem Solving; Communication.
 
 ## 📚 Projects
 - View my portfolio projects on [**my website**](https://sites.google.com/view/juliussamijimndemeportfolio/home). 
