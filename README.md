@@ -1,8 +1,7 @@
 👋 Hi, I’m Julius, an aspiring analyst. 
 
 ## 🙋‍♀️ About Me
-- 📊 I'm currently searching for an entry level position as an analyst. 
-- 📐 Degree in Actuarial science. 
+- 📊 I'm currently searching for an entry level position as an analyst. . 
 
 ## 🛠 Skills and Tools
 - **Tools:** Tableau; SQL, Python, R, Excel 
