@@ -9,9 +9,9 @@
 - **Skills:** Critical Thinking; Problem Solving; Communication; Teaching.
 
 ## 📚 Projects
-- View my portfolio projects on [**my website**](https://www.kellyjadams.com/portfolio). 
+- View my portfolio projects on [**my website**](https://sites.google.com/view/juliussamijimndemeportfolio/home). 
 - View my coding projects on [**Github**](https://github.com/JuliusSamijiMndeme?tab=repositories).
-- View my data vidualizations on [**Tableau Public**](https://public.tableau.com/app/profile/juliusmndeme).
+- View my data visualizations on [**Tableau Public**](https://public.tableau.com/app/profile/juliusmndeme).
 
 ### ⭐ Favorite Projects
 - [Weightlifting Project](https://public.tableau.com/app/profile/kellyjadams/viz/WeightliftingProject/Final) - Analyzed my own personal weightlifting data from 3 months, focused on measuring key metrics like: weight; reps; sets; volume; and estimated 1 rep max. View my [weightlifting-data repository](https://github.com/kellyjadams/weightlifting-data).
@@ -22,7 +22,7 @@
  
 
 ## 📫 Connect with Me
-- [Website](https://www.kellyjadams.com/)
+- [Website](https://sites.google.com/view/juliussamijimndemeportfolio/home) 
 - [LinkedIn](https://www.linkedin.com/in/jsm100)
 - [Email](mailto:mndemejulius7@gmail.com)
 
